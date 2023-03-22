@@ -35,7 +35,7 @@ main{
     margin: 0 auto;
     border-radius: 12px 12px 0 0;
     padding: 40px;
-    background-image: linear-gradient(orange,#FB5E33);
+    background-image: linear-gradient(#FFA500,#FB5E33);
 }
 
 main img{
@@ -46,7 +46,7 @@ main img{
 
 h2{
     font-size: 25px;
-    color: black;
+    color: #000000;
     margin: 5px 0 0px;
 }
 
@@ -59,14 +59,14 @@ h4{
 
 p.small{
     font-size: 18px;
-    color: black;
+    color: #000000;
     text-align: center;
     font-style: italic;
     color: #5D1500;
 }
 
 a {
-   color: black; 
+   color: #0000000; 
 }
 a:hover{
     opacity: .5;
