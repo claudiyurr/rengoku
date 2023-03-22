@@ -14,7 +14,8 @@ header{
 }
 
 h1, h2, h4{
-   font-family: 'Days One', sans-serif;
+    font-family: 'Almarai', sans-serif;
+
 }
 
 /* header styles */
@@ -45,8 +46,8 @@ main img{
 
 
 h2{
-    font-size: 25px;
-    color: black;
+    font-size: 21px;
+    color: #000000;
     margin: 5px 0 0px;
 }
 
@@ -98,3 +99,9 @@ p.caption{
     font-size: 16px;
     text-align: center;
 }
+
+#logo {
+    text-indent: 0px;
+    width: 300px;
+    height: 300px;
+  }
